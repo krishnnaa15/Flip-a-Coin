@@ -3,6 +3,5 @@ will randomly decide that the result is heads or tails.
 
 #Output
 
-![Screenshot (65)](https://github.com/krishnnaa15/krishnnaa15/assets/141332207/84eb51d5-e026-42e3-8ee8-b49d16676d30)
-
+![Screenshot 2024-10-21 084102](https://github.com/user-attachments/assets/a52252f7-f1d2-4124-b11a-d5204da178d1)
 
